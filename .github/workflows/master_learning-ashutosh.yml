@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'learning-ashutosh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8393AC78B50747339551247C19389494 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6552299B22C4F179E38C67BD9E23848 }}
           package: .
